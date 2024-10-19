@@ -1,0 +1,2 @@
+public class Ortak2 {
+}
